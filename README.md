@@ -4,8 +4,7 @@ MSSQL Capstone Project
 
 North Wind Traders’ Capstone Project by Warieta Gift Ejovwoke
 
-Page 2 of 5
-Link to the database backup file: Click here
+Link to the database backup file: https://drive.google.com/file/d/13--09mqGqYr0EDzusuVQh4FuHT0O0nfM/view
 
 Case
 Scenario Analysis and Story Telling
@@ -17,7 +16,6 @@ You have been employed as a Data Analyst to
 help the company answer some key questions to
 take the business forward.
 
-NOTE
 
 Ensure that you identify all the tables that
 needs to be considered to solve all the
@@ -26,7 +24,7 @@ Database Schema closely).
 
 North Wind Traders’ Capstone Project by Warieta Gift Ejovwoke
 
-Page 3 of 5
+
 Northwind Database Schema Architectural Breakdown
 The classic Northwind database schema represents a typical small-scale relational database
 structure for a wholesale trading company (Northwind Traders). It handles everything from catalog
